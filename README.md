@@ -35,3 +35,9 @@ TBD
 ## Seeing the Data
 
 TBD
+
+## Links
+
+https://www.sec.gov/about/secrss.shtml
+https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000896878&type=&dateb=&owner=exclude&start=0&count=40&output=atom
+https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000896878&owner=exclude&count=40&hidefilings=0
